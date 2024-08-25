@@ -34,7 +34,6 @@
 form .display{
     display: flex;
     justify-content: center;
-    box-shadow: -8px -8px 15px rgba(126, 90, 43, 0.1), 5px 5px 15px rgba(48, 4, 4, 0.52);
     margin: 20px 0;
 }
 form .display input{
@@ -43,10 +42,7 @@ form .display input{
     font-size: 45px;
     box-shadow: none;
 }
-form .display ::placeholder{
-    color: rgba(0, 0, 0, 0.099);
 
-}
 form div .equal{
     width: 145px;
 }
